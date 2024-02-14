@@ -6,6 +6,7 @@ import time
 import m_tic_tac_toe as tic
 
 # this is related to connection
+#replace the localhost with the respective ip address
 ip_adrs = 'localhost'
 port = 12345
 adrs = (ip_adrs,port)
